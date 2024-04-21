@@ -1,0 +1,101 @@
+				<!-- Working -->
+				<div class="elisc_tm_section" id="Working">
+					<div class="elisc_tm_news fn_w_sminiboxes w-full float-left py-[120px] px-0">
+						<div class="tm_content w-full max-w-[1250px] h-auto clear-both my-0 mx-auto py-0 px-[20px]"> 
+							<div class="wrapper w-full flex justify-between">
+
+								<div class="left fn_w_sminibox w-2/3 pr-[50px]">
+									<div class="elisc_tm_sticky_section">
+										<div class="elisc_tm_title w-full float-left">
+											<span class="w-full float-left font-medium uppercase inline-block mb-[12px]">- Papers</span>
+											<h3 class="text-[40px] font-extrabold">My Published Papers &amp; Working Papers</h3>
+										</div>
+										<div class="elisc_tm_button transition_link mt-[45px]">
+											<a href="mailto:lmchen20@fudan.edu.cn">Email Me</a>
+										</div>
+									</div>
+								</div>
+
+								<div class="right fn_w_sminibox w-[100%] pl-[50px]">
+									<div class="elisc_tm_sticky_section">
+										<div class="list w-full float-left relative">
+											<ul>
+												
+												<li class="mb-[40px] w-full float-left">
+													<img class="popup_image" src="assets/img/news/1.jpg" alt="" />
+													<div class="list_inner w-full float-left relative flex items-center justify-between">
+														<div class="info w-5/5">
+															<div class="meta w-full float-left flex items-center mb-[12px]">
+																<img class="svg w-[18px] h-[18px]" src="assets/img/svg/calendar.svg" alt="" /> <span class="font-medium pl-[8px]">March, 2024</span>
+															</div>
+															<div class="title w-full float-left">
+																<h3 class="text-[#130F49] text-[28px] font-semibold leading-[36px]"><a href="#">Platform Investment and Creators’ Quality Choice. </a></h3>
+																<h3 class="text-[#808080] text-[20px]"><a href="#">Managerial and Decision Economics, 2024, Forthcoming. (with Yanru Wang)</a></h3>
+															</div>
+														</div>
+
+														<!-- Modalbox Info Start -->
+														<div class="news_hidden_details">
+															<div class="news_popup_informations">
+																<div class="text">
+																	<p>Online sellers often face the hold-up problem that the platform may abuse its data advantage to compete against them in product market, 
+																		thereby having lower incentives to invest in product innovation. </p>
+																	<p>This paper explores the role of relational contract in solving such conflicts. 
+																		In each period, a seller decides whether to remain on a platform and, if so, how much to invest in upgrading the product which will depreciate without continuous investment from the seller. 
+																		Then, the platform decides whether to copy the seller's product. If the platform chooses to copy, both parties engage in competition; otherwise, they share the monopoly profit. 
+																		A relational contract prescribes the seller’s decisions on separation and investment, and the platform's cooperation choice. 
+																		We show that the efficiency of relational contract depends critically on the seller’s outside option and the product depreciation factor. Specifically, the outside option exhibits discontinuous and non-monotonic effects on efficiency, 
+																		suggesting that higher outside option such as higher offline market value may not benefit sellers. </p>
+																	<p>Moreover, the product depreciation factor can exert opposite effects on efficiency, depending on whether the platform will copy the seller off-path. 
+																		Our model provides a useful framework for analyzing data-driven hold-up problems in the digital economy.</p>
+																</div>
+															</div>
+														</div>
+														<!-- /Modalbox Info End -->
+
+													</div>
+												</li>
+
+												<li class="mb-[40px] w-full float-left">
+													<img class="popup_image" src="assets/img/news/1.jpg" alt="" />
+													<div class="list_inner w-full float-left relative flex items-center justify-between">
+														<div class="info w-5/5">
+															<div class="meta w-full float-left flex items-center mb-[12px]">
+																<img class="svg w-[18px] h-[18px]" src="assets/img/svg/calendar.svg" alt="" /> <span class="font-medium pl-[8px]">March, 2020</span>
+															</div>
+															<div class="title w-full float-left">
+																<h3 class="text-[#130F49] text-[28px] font-semibold leading-[36px]"><a href="#">Diversification, Efficiency and Risk of Banks: Evidence from Emerging Economies. </a></h3>
+																<h3 class="text-[#808080] text-[20px]"><a href="#">Emerging Markets Review, 2020(45): 100720. (with Ji Wu, Minghua Chen, Bang Nam Jeon)</a></h3>
+															</div>
+														</div>
+
+														<!-- Modalbox Info Start -->
+														<div class="news_hidden_details">
+															<div class="news_popup_informations">
+																<div class="text">
+																	<p>Online sellers often face the hold-up problem that the platform may abuse its data advantage to compete against them in product market, 
+																		thereby having lower incentives to invest in product innovation. </p>
+																	<p>This paper explores the role of relational contract in solving such conflicts. 
+																		In each period, a seller decides whether to remain on a platform and, if so, how much to invest in upgrading the product which will depreciate without continuous investment from the seller. 
+																		Then, the platform decides whether to copy the seller's product. If the platform chooses to copy, both parties engage in competition; otherwise, they share the monopoly profit. 
+																		A relational contract prescribes the seller’s decisions on separation and investment, and the platform's cooperation choice. 
+																		We show that the efficiency of relational contract depends critically on the seller’s outside option and the product depreciation factor. Specifically, the outside option exhibits discontinuous and non-monotonic effects on efficiency, 
+																		suggesting that higher outside option such as higher offline market value may not benefit sellers. </p>
+																	<p>Moreover, the product depreciation factor can exert opposite effects on efficiency, depending on whether the platform will copy the seller off-path. 
+																		Our model provides a useful framework for analyzing data-driven hold-up problems in the digital economy.</p>
+																</div>
+															</div>
+														</div>
+														<!-- /Modalbox Info End -->
+													</div>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /Working -->
+				
